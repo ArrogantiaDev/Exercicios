@@ -1,9 +1,9 @@
 package exerciciossaojudas;
+
 import javax.swing.JOptionPane;
 
-
-public class MetodoDeTesteA {
-  public static void main(String[] args) {
+class ExercicioB4 {
+     public static void main(String[] args) {
 
         String nome = JOptionPane.showInputDialog("Qual o nome?");
         int idade = Integer.parseInt(JOptionPane.showInputDialog("Qual a idade?"));
